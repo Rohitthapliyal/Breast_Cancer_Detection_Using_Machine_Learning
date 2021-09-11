@@ -5,3 +5,11 @@ The key challenge in cancer detection is how to classify tumors into malignant o
 Research indicates that most experienced physicians can diagnose cancer with 79 percent accuracy while 91 percent correct diagnosis is achieved using machine learning techniques.
 
 Breast cancer is a dangerous disease for women. If it does not identify in the early-stage then the result will be the death of the patient. It is a common cancer in women worldwide. Worldwide near about 12% of women affected by breast cancer and the number is still increasing.
+
+I Developed a Machine Learning model using Knn Classifier ,Random Forest Algorithm ,which is capable of detecting Breast Cancer .I Implememented all steps including data cleaning,data preprocessing,anomaly detection,data visualization which helps in building a machine learning model.
+ 
+
+Algorithm used: Decision Tree,LogisticRegression,Random Forest Algorithm
+Library used : Sklearn,Pandas,Numpy,Matplotlib,Seabor
+IDE used :Jupyter Notebook
+
