@@ -10,6 +10,8 @@ I Developed a Machine Learning model using Knn Classifier ,Random Forest Algorit
  
 
 Algorithm used: Decision Tree,LogisticRegression,Random Forest Algorithm
-Library used : Sklearn,Pandas,Numpy,Matplotlib,Seabor
+
+Library used : Sklearn,Pandas,Numpy,Matplotlib,Seaborn
+
 IDE used :Jupyter Notebook
 
